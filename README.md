@@ -44,6 +44,14 @@
 
 ---
 
+### 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Pankaj-Bashera?theme=dark&font=Baloo&ext=activity" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
