@@ -47,7 +47,7 @@
 ### 🏁 Competitive Programming Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Pankaj-Bashera?theme=dark&font=Baloo&ext=activity" alt="LeetCode Stats" height="230"/>
+  <img src="https://leetcard.jacoblin.cool/Pankaj-Bashera?theme=dark&font=Baloo&ext=contest" alt="LeetCode Contest Rating" />
   &nbsp;
   <img src="https://cf.leed.at?id=Pankaj_Bashera" alt="Codeforces Stats" height="230"/>
 </p>
