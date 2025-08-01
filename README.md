@@ -49,7 +49,9 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Pankaj-Bashera?theme=dark&font=Baloo&ext=contest" alt="LeetCode Contest Rating" />
   &nbsp;
-  <img src="https://cf.leed.at?id=Pankaj_Bashera" alt="Codeforces Stats" height="230"/>
+  <img src="https://cf.leed.at?id=Pankaj_Bashera" alt="Codeforces Stats Card" height="230"/>
+  <br/>
+  <img src="https://cftracker.netlify.app/api/profile?handle=Pankaj_Bashera&chart=rating" alt="Codeforces Rating Graph" width="600"/>
 </p>
 
 ---
