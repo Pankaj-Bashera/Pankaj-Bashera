@@ -11,7 +11,7 @@
 ### 🧠 About Me
 
 - 🎓 **B.Tech in CSE (AIML)** | Lovely Professional University | 2023–2027
-- 💻 Competitive Programmer (Leetcode: 1626 | Codeforces: 1030)
+- 💻 Competitive Programmer (Leetcode: 1663 | Codeforces: 1030)
 - 🌱 Exploring AI-powered apps, cloud deployment, and scalable web systems
 - ✍️ Always striving to write clean, efficient, and readable code
 
@@ -52,8 +52,6 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Pankaj-Bashera?theme=dark&font=Baloo&ext=contest" alt="LeetCode Contest Rating" />
-  &nbsp;
-  <img src="https://cf.leed.at?id=Pankaj_Bashera" alt="Codeforces Stats Card" height="230"/>
 </p>
 
 ---
