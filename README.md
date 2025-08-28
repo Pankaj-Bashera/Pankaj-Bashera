@@ -11,7 +11,7 @@
 ### 🧠 About Me
 
 - 🎓 **B.Tech in CSE (AIML)** | Lovely Professional University | 2023–2027
-- 💻 Competitive Programmer (Leetcode: 1663 | Codeforces: 1030)
+- 💻 Competitive Programmer (Leetcode: 1783 | Codeforces: 1193)
 - 🌱 Exploring AI-powered apps, cloud deployment, and scalable web systems
 - ✍️ Always striving to write clean, efficient, and readable code
 
