@@ -60,6 +60,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [🔗 AI Resume Analyzer](https://github.com/Pankaj-Bashera/ai-resume-analyzer) | ATS-powered resume analysis tool that scores resumes against job descriptions and gives structured improvement tips. | React, TypeScript, TailwindCSS, Puter.js |
 | [🔗 Waste Management System](https://github.com/Pankaj-Bashera/Waste-Management-System) | Web app to monitor & manage waste data interactively. | HTML, CSS, JS, Python |
 | [🔗 Sentiment Analysis](https://github.com/Pankaj-Bashera/Sentiment-Analysis-NN) | Real-time sentiment analyzer using a DNN model and React. | Python, TensorFlow, React |
 
