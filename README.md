@@ -52,7 +52,7 @@
 
 <p align="justify">
   <img src="https://leetcard.jacoblin.cool/Pankaj-Bashera?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pankaj-Bashera" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pankaj_Bashera" alt="Codeforces Stats" />
 </p>
 
 ---
