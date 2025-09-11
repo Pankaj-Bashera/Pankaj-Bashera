@@ -40,9 +40,11 @@
 
 ### 🔥 GitHub Stats
 
-<p align="center">
+<p align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Bashera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Bashera&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Bashera&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
@@ -52,7 +54,8 @@
 
 <p align="justify">
   <img src="https://leetcard.jacoblin.cool/Pankaj-Bashera?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pankaj_Bashera" alt="Codeforces Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pankaj_Bashera&theme=tokyonight" alt="Codeforces Stats" />
 </p>
 
 ---
