@@ -41,7 +41,7 @@
 ### 🔥 GitHub Stats
 
 <p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Bashera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Bashera&show_icons=true&theme=monokai&hide_border=true&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-Bashera&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 <p align="center">
