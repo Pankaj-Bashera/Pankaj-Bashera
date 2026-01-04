@@ -73,7 +73,7 @@
 ### 🧰 My Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,html,css,tailwind,tensorflow,git,github,linux,aws,gcp,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,html,css,tailwind,tensorflow,git,github,linux,aws,vscode" />
 </p>
 
 ---
