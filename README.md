@@ -38,7 +38,7 @@
 
 ---
 
-### 🔥 GitHub Stats
+<!-- ### 🔥 GitHub Stats
 
 <p align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-Bashera&show_icons=true&theme=monokai&hide_border=true&count_private=true" width="49%" />
@@ -47,8 +47,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Bashera&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
-
 ---
+-->
 
 ### 🏁 Competitive Programming Stats
 
