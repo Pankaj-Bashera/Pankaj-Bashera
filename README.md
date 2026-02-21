@@ -50,14 +50,6 @@
 ---
 -->
 
-### 🏁 Competitive Programming Stats
-
-<p align="justify">
-  <img src="https://leetcard.jacoblin.cool/Pankaj-Bashera?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pankaj_Bashera&theme=tokyonight" alt="Codeforces Stats" />
-</p>
-
 ---
 
 ### 🚀 Featured Projects
@@ -77,9 +69,11 @@
 </p>
 
 ---
+### 📫 Find Me On
 
-### 📫 Connect With Me
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-pankajbashera-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Pankaj-Bashera)
+[![Codeforces](https://img.shields.io/badge/Codeforces-pankajbashera-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Pankaj_Bashera)
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajb1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pankaj-Bashera)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajbashera1211@gmail.com)
