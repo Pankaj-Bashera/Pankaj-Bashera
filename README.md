@@ -38,6 +38,10 @@
 
 ---
 
+### Calendar
+
+![Metrics](https://github.com/Pankaj-Bashera/Pankaj-Bashera/blob/main/github-metrics.svg)
+
 <!-- ### 🔥 GitHub Stats
 
 <p align="justify">
