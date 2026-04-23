@@ -38,7 +38,7 @@
 
 ---
 
-### Calendar
+### 🔥 Github Stats
 
 ![Metrics](https://github.com/Pankaj-Bashera/Pankaj-Bashera/blob/main/github-metrics.svg)
 
